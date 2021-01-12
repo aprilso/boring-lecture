@@ -3,6 +3,14 @@
   font-family: Arial, Helvetica, sans-serif;
   background-color: brown;
   font-style: italic;
+} 
+.sidebar{
+  width: 35%;
+  float: right;
+  color: greenyellow;
+}
+.images{
   width: 500px;
   height: auto;
+  float: left;
 }
