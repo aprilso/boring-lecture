@@ -6,11 +6,20 @@
 } 
 .sidebar{
   width: 35%;
-  float: right;
+  float: right; 
   color: greenyellow;
+  margin: 12px;
+  padding: 10px;
+  border: 50px brown;
+  background-color: salmon;
 }
 .images{
   width: 500px;
   height: auto;
   float: left;
+  padding: 40px;
+}
+.spacing{
+  margin-top: 2px;
+  margin-bottom: 4px;
 }
