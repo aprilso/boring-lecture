@@ -1,16 +1,8 @@
-h2.intro {
-  color: gray;
-  font-style: italic;
-
-}
-
-p.intro {
+.intro{
   color: gray;
   font-family: Arial, Helvetica, sans-serif;
   background-color: brown;
-}
-
-img.intro {
+  font-style: italic;
   width: 500px;
   height: auto;
 }
